@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    int dongu=10;
+    int sayac=0;
+    while(dongu>sayac)
+    { 
+        printf("hello world\n");
+        sayac++;
+    }
+   return 0;
+}
