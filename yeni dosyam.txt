@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    int sayac=0;
+    for(int dongu=15;sayac<dongu;sayac++)
+    printf("canım arkadaşım.\n");
+    return 0;
+}
