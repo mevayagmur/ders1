@@ -1,0 +1,12 @@
+
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    int sayac=0;
+    int dongu=10;
+    while(sayac<dongu) {
+        printf("canım arkadaşım\n");
+        sayac++;   }
+    return 0;
+}
